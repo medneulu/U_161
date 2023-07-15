@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3130750090388450846}
   m_Layer: 0
   m_Name: gem-1
-  m_TagString: Untagged
+  m_TagString: collectible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 4717738509243765552}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.4935, y: 0.3187, z: 0}
-  m_LocalScale: {x: 2.6513932, y: 2.6328263, z: 1}
+  m_LocalScale: {x: 3.4799535, y: 3.5872257, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
