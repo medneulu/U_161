@@ -7874,6 +7874,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f2a6c05c330433dbe49566a6312dd4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  clickSound: {fileID: 8300000, guid: ffe09740cf5edb74e854d9376b1f606c, type: 3}
 --- !u!1001 &606332952
 PrefabInstance:
   m_ObjectHideFlags: 0

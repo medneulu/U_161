@@ -5,6 +5,7 @@ using UnityEngine;
 public class Collect_items : MonoBehaviour
 {
     private int count=0;
+    [SerializeField] private AudioClip clickSound;
 
     private void OnTriggerEnter2D(Collider2D other) 
     {
@@ -12,6 +13,7 @@ public class Collect_items : MonoBehaviour
         {
             Debug.Log(count);
             count++;
+            AudioSource.PlayClipAtPoint(clickSound,other.transform.position);
             Destroy(other.gameObject);
         }
     }
