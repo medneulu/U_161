@@ -46,36 +46,9 @@ Bu sprint içerisinde öncelikle ekip ruhu oluşturmaya odaklanarak birbirimizi 
 - Oyunun ana bileşenleri, seviye düzeni, karakterler, görevler ve diğer önemli unsurlar hakkında taslak bir plan yapılmıştır.
 - Her takım üyesinin gelecek sprint içinde daha aktif olması ve toplantı sıklığının artırılması konusuna dikkat çekilmiştir.
 
-# 2. Sprint Raporu
-## Sprint içinde tamamlanması tahmin edilen puan: 
-96 Puan
-## Puan tamamlama mantığı: 
-Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve ana görevler dikkate alındığında birinci sprintteki 100 puanlık hedefin yerine, ikinci sprint'in 96 puan ile  devam etmesi gerektiğine karar verilmiştir.
-## Daily Scrum: 
-Daily Scrum toplantıları Whatsapp üzerinden yapılmıştır. Toplantı örneği ekte paylaşılmıştır.
-https://drive.google.com/drive/folders/1Y7IrdzN6_QyOxBxxHEU6sBmts1ZHyLS8?usp=drive_link
 
-## Sprint Notları: 
-Sprint içerisinde 12 ana hedef belirlenmiş ve her bir hedefe 8 puan atanmıştır
-## Sprint Board Updates:
 
-## Sprint Review: 
-Bu sprint içerisinde oyunun ana bileşenlerini ve seviye düzenini geliştirmeye, oyunun ana karakterinin hareketlerini ve kontrollerini geliştirmeye odaklandık. Ekibin performansı daha da arttı ve beklenen ilerleme sağlandı.
 
-## Sprint Retrospective:
-- Her bir takım üyesi, sorumluluklarını tamamlamak elinden geleni yapmaya çalıştı.
-- Görev paylaşımının rahat yapılması takımın güçlü bir yönü oldu.
-- Sprint planlamasının daha iyi yapılabilmesi için gelecek sprint için geliştirmeler planlandı.
-Sprint boyunca yapılan değerlendirmeler ve takım geri bildirimleri şunlardır:
-
-Olumlu Noktalar:
-- Takım üyeleri, toplantılar aracılığı ile proje hakkındaki görüşlerini rahatlıkla iletebildi
-- Hedeflere ulaşmak için görev payaşımı yapılarak iş gücü eşit olarak dağıtıldı
-
-Geliştirilmesi Gereken Noktalar:
-- Takım toplantılarının daha sık yapılması gerekiyor, böylece ilerlemeleri ve sorunları düzenli olarak değerlendirebiliriz.
-- Takımda genel olarak zaman yönetimi sorunları yaşandı, bununla başa çıkmalıyız.
-- Bazı teknik zorluklarla karşılaşıldı, bu konularda daha fazla bilgi paylaşımı ve eğitim yapılması gerekiyor.
 
 
 
