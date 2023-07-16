@@ -90,7 +90,7 @@ Daily Scrum toplantılarının Whatsapp üzerinden yapılmıştır.
 ## Sprint Notları: 
 Sprint içerisinde 7  hedef belirlenmiş ve her bir hedefe 15 puan atanmıştır
 ## Sprint Board Updates:
-!(/image/to/image.png)
+![image](images/image.png)
 
 
 ## Sprint Review: 
