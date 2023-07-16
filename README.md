@@ -47,6 +47,65 @@ Bu sprint içerisinde öncelikle ekip ruhu oluşturmaya odaklanarak birbirimizi 
 - Her takım üyesinin gelecek sprint içinde daha aktif olması ve toplantı sıklığının artırılması konusuna dikkat çekilmiştir.
 
 
+# 2. Sprint Raporu
+## Sprint içinde tamamlanması tahmin edilen puan: 
+96 Puan
+## Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ve ana görevler dikkate alındığında birinci sprintteki 100 puanlık hedefin yerine, ikinci sprint'in 96 puan ile  devam etmesi gerektiğine karar verilmiştir.
+## Daily Scrum: 
+Daily Scrum toplantıları Whatsapp üzerinden yapılmıştır. Toplantı örneği ekte paylaşılmıştır.
+https://drive.google.com/drive/folders/1Y7IrdzN6_QyOxBxxHEU6sBmts1ZHyLS8?usp=drive_link
+
+## Sprint Notları: 
+Sprint içerisinde 12 ana hedef belirlenmiş ve her bir hedefe 8 puan atanmıştır
+## Sprint Board Updates:
+
+## Sprint Review: 
+Bu sprint içerisinde oyunun ana bileşenlerini ve seviye düzenini geliştirmeye, oyunun ana karakterinin hareketlerini ve kontrollerini geliştirmeye odaklandık. Ekibin performansı daha da arttı ve beklenen ilerleme sağlandı.
+
+## Sprint Retrospective:
+- Her bir takım üyesi, sorumluluklarını tamamlamak elinden geleni yapmaya çalıştı.
+- Görev paylaşımının rahat yapılması takımın güçlü bir yönü oldu.
+- Sprint planlamasının daha iyi yapılabilmesi için gelecek sprint için geliştirmeler planlandı.
+Sprint boyunca yapılan değerlendirmeler ve takım geri bildirimleri şunlardır:
+
+Olumlu Noktalar:
+- Takım üyeleri, toplantılar aracılığı ile proje hakkındaki görüşlerini rahatlıkla iletebildi
+- Hedeflere ulaşmak için görev payaşımı yapılarak iş gücü eşit olarak dağıtıldı
+
+Geliştirilmesi Gereken Noktalar:
+- Takım toplantılarının daha sık yapılması gerekiyor, böylece ilerlemeleri ve sorunları düzenli olarak değerlendirebiliriz.
+- Takımda genel olarak zaman yönetimi sorunları yaşandı, bununla başa çıkmalıyız.
+- Bazı teknik zorluklarla karşılaşıldı, bu konularda daha fazla bilgi paylaşımı ve eğitim yapılması gerekiyor.
+  
+  # 3.Sprint Rapor
+## Sprint içinde tamamlanması tahmin edilen puan: 
+104 Puan
+## Puan tamamlama mantığı: 
+Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in 105 olması gerektiğine karar verilmiştir.
+## Daily Scrum: 
+Daily Scrum toplantılarının Whatsapp üzerinden yapılmıştır.
+
+
+## Sprint Notları: 
+Sprint içerisinde 7  hedef belirlenmiş ve her bir hedefe 15 puan atanmıştır
+## Sprint Board Updates:
+!(/image/to/image.png)
+
+
+## Sprint Review: 
+Takımımızın bu sprintte gerçekleştirdiği çalışmalar sonucunda, oyunun temel yapıları büyük ölçüde tamamlandı ve oyun deneyimi gelişti. Her bir görev, takımın beklentilerine uygun şekilde tamamlandı ve öngörülen zaman çerçevesi içinde teslim edildi.
+## Sprint Retrospective:
+-Takım olarak verimli bir çalışma süreci geçirdik.
+-Görevler, beklenen kalitede tamamlandı ve zamanında teslim edildi.
+-Ekip üyeleri arasındaki iletişim ve işbirliği iyi seviyede oldu.
+-Sprint boyunca gerçekleştirilen görevler, oyunun temel yapılarını önemli ölçüde tamamladı.
+
+  
+
+
+
+
 
 
 
