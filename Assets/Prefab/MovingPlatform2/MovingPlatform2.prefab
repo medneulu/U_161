@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 2311946376883006378}
   m_Layer: 0
   m_Name: MovingPlatform2
-  m_TagString: Untagged
+  m_TagString: Zemin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
