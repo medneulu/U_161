@@ -29,7 +29,7 @@ public class PlatformController : MonoBehaviour
         }
 
     }
-    private void OnTriggerxit2D(Collider2D collision)
+    private void OnTriggerExit2D(Collider2D collision)
     {
         if(collision.CompareTag("Player"))
         {
