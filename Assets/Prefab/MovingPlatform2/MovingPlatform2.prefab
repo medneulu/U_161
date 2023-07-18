@@ -348,6 +348,7 @@ GameObject:
   - component: {fileID: 8387244440745889134}
   - component: {fileID: 415633580190627095}
   - component: {fileID: 2311946376883006378}
+  - component: {fileID: 2115270425}
   m_Layer: 0
   m_Name: MovingPlatform2
   m_TagString: Zemin
@@ -407,7 +408,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -438,6 +439,32 @@ MonoBehaviour:
   PosA: {fileID: 0}
   PosB: {fileID: 0}
   Speed: 5
+--- !u!61 &2115270425
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8284611946137554486}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -1.8954544, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.90277, y: 0.90277}
+  m_EdgeRadius: 0
 --- !u!1 &8763694494673668743
 GameObject:
   m_ObjectHideFlags: 0
